@@ -11,3 +11,4 @@ No reason. I made this because I was bored out of my mind, and I was inspired by
     * reset the input.
 * You CANNOT use inspect element to change the attributes. The app will try to correct this and will show an error message.
 * According to [proffessional standards](https://motherfuckingwebsite.com/), this is a good website.
+* Features the alphabets plus tildes for a, e, i, o, u. Good luck if it randomly doesn't generate all the letters.
